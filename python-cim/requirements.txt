@@ -1,6 +1,6 @@
-hexdump
-funcy
-intervaltree
-vivisect-vstruct-wb
-python-pyqt5-hexview
-python-pyqt5-vstructui
+hexdump==3.3
+funcy==2.0
+intervaltree==3.2.1
+vivisect-vstruct-wb==1.0.3
+python-pyqt5-hexview==0.4.3
+python-pyqt5-vstructui==0.4.0
